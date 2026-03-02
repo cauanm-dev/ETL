@@ -27,6 +27,7 @@ Certifique-se de ter o Python e o PostgreSQL instalados na sua máquina.
 ### 2. Configuração do Ambiente
 Clone o repositório e instale as dependências listadas:
 ```bash
-git clone [https://github.com/SeuUsuario/seu-repositorio.git](https://github.com/SeuUsuario/seu-repositorio.git)
-cd seu-repositorio
+git clone https://github.com/cauanm-dev/ETL.git
+cd ETL
+
 pip install -r requirements.txt
